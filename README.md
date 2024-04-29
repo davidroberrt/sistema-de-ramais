@@ -1,9 +1,6 @@
 # Projeto: Sistema de Ramais
 
-
-
-## Introdução
-Este documento descreve o projeto de criação de um sistema de procuração de ramais para a recepcionista da [Rede Paraíba de Comunicação](https://br.linkedin.com/in/rede-para%C3%ADba), com o objetivo de facilitar o processo de transferência de chamadas e melhorar a eficiência do serviço.
+Este é um projeto de um sistema de ramais para a recepcionista da [Rede Paraíba de Comunicação](https://br.linkedin.com/in/rede-para%C3%ADba), com o objetivo de facilitar o processo de transferência de chamadas e melhorar a eficiência do serviço. 
 
 ![page1](https://github.com/davidroberrt/sistema-de-ramais/assets/54132069/0146b5b2-3e33-4d4b-8221-eef445abc3d4)
 ![page2](https://github.com/davidroberrt/sistema-de-ramais/assets/54132069/7ea0dac0-f6c8-41f9-97e2-f09142f81a15)
@@ -29,3 +26,8 @@ Foi desenvolvido um sistema de procuração de ramais, acessível por meio de um
 ## Conclusão
 O sistema de procuração de ramais proporcionou uma solução eficaz para o problema enfrentado pela recepcionista, melhorando significativamente a eficiência do serviço. Com a implementação deste projeto, a equipe de recepção agora pode lidar com chamadas de forma mais rápida e precisa, resultando em uma melhor experiência para os funcionários e clientes.
 
+## 🔗 Acompanhe meu trabalho
+[![portfolio](https://img.shields.io/badge/meu_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://www.linkedin.com/in/davidrobertt)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/davidrobertt)
+[![instagram](https://img.shields.io/badge/instagram-purple?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/davidroberrt)
+[![youtube](https://img.shields.io/badge/youtube-red?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/kePxRO98lEY)
