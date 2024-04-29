@@ -1,6 +1,6 @@
 # Projeto: Sistema de Ramais
 
-Este é um projeto de um sistema de ramais para a recepcionista da [Rede Paraíba de Comunicação](https://br.linkedin.com/in/rede-para%C3%ADba), com o objetivo de facilitar o processo de transferência de chamadas e melhorar a eficiência do serviço. 
+Este é um projeto de um sistema de ramais feito para a recepcionista da [Rede Paraíba de Comunicação](https://br.linkedin.com/in/rede-para%C3%ADba), com o objetivo de facilitar o processo de transferência de chamadas e melhorar a eficiência do serviço. 
 
 ![page1](https://github.com/davidroberrt/sistema-de-ramais/assets/54132069/0146b5b2-3e33-4d4b-8221-eef445abc3d4)
 ![page2](https://github.com/davidroberrt/sistema-de-ramais/assets/54132069/7ea0dac0-f6c8-41f9-97e2-f09142f81a15)
