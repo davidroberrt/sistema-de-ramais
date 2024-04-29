@@ -1,0 +1,132 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Ramais Rede Paraíba de Comunicação</title>
+  <link rel="shortcut icon" href="ico.jpg" type="image/x-icon">
+
+
+  <!-- Google Font: Source Sans Pro -->
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,400i,700&display=fallback">
+  <!-- Font Awesome -->
+  <link rel="stylesheet" href="styles/all.min.css">
+  <!-- DataTables -->
+  <link rel="stylesheet" href="styles/dataTables.bootstrap4.min.css">
+  <link rel="stylesheet" href="styles/responsive.bootstrap4.min.css">
+  <link rel="stylesheet" href="styles/buttons.bootstrap4.min.css">
+  <!-- Theme style -->
+  <link rel="stylesheet" href="styles/adminlte.min.css">
+</head>
+<body class="hold-transition sidebar-mini">
+    <!-- Content Header (Page header) -->
+    <section class="content-header">
+      <div class="container-fluid">
+        <div class="row mb-2" style="background-image: linear-gradient(45deg, rgb(137, 0, 228), rgb(255, 153, 0))";>
+          <div class="col-sm-6">
+            <div class="logospb"><img src="images/logos_redepb.png" alt=""></div>
+            <h2 style="color: aliceblue; font-style: italic;"><br> Ramais da Rede Paraíba de Comunicação</h2>
+	    <h6 style="color: aliceblue; font-style: italic;"><br> Atualização: 07/06/2023</h6>
+                
+            </div>
+    </section>
+
+    <!-- Main content -->
+    <section class="content">
+      <div class="row">
+        <div class="col-12"> 
+          <div class="card">
+            <h3 class="card-title">   </h3>
+            </div>
+              <!-- /.card-header -->
+              <div class="card-body">
+                <table id="example1" class="table table-bordered table-striped">
+                  <thead>
+                  <tr>
+                    <th>Setor</th>
+                    <th>Ramal</th>
+                    <th>Nome</th>
+                    <th>Função</th>
+                  </tr>
+                  </thead>
+                  <tbody>
+                    <td>Setor</td>
+                    <td>Ramal</td>
+                    <td>Nome</td>
+                    <td>Função</td>
+                  </tr>
+                  </tbody>
+                  <tfoot>
+                  <tr>
+                      <th>Setor</th>
+                      <th>Ramal</th>
+                      <th>Nome</th>
+                      <th>Função</th>
+                  </tr>
+                  </tfoot>
+                </table>
+              </div>
+              <!-- /.card-body -->
+          </div>
+          <!-- /.card -->
+        </div>
+        <!-- /.col -->
+      </div>
+      <!-- /.row -->
+      </div>
+      <!-- /.container-fluid -->
+    </section>
+    <!-- /.content -->
+  </div>
+  <!-- /.content-wrapper -->
+  
+
+  <!-- Control Sidebar -->
+  <aside class="control-sidebar control-sidebar-dark">
+    <!-- Control sidebar content goes here -->
+  </aside>
+  <!-- /.control-sidebar -->
+</div>
+<!-- ./wrapper -->
+
+<!-- jQuery -->
+<script src="jscript/jquery.min.js"></script>
+<!-- Bootstrap 4 -->
+<script src="jscript/bootstrap.bundle.min.js"></script>
+<!-- DataTables  & Plugins -->
+<script src="jscript/jquery.dataTables.min.js"></script>
+<script src="jscript/dataTables.bootstrap4.min.js"></script>
+<script src="jscript/dataTables.responsive.min.js"></script>
+<script src="jscript/responsive.bootstrap4.min.js"></script>
+<script src="jscript/dataTables.buttons.min.js"></script>
+<script src="jscript/buttons.bootstrap4.min.js"></script>
+<script src="jscript/jszip.min.js"></script>
+<script src="jscript/pdfmake.min.js"></script>
+<script src="jscript/vfs_fonts.js"></script>
+<script src="jscript/buttons.html5.min.js"></script>
+<script src="jscript/buttons.print.min.js"></script>
+<script src="jscript/buttons.colVis.min.js"></script>
+<!-- AdminLTE App -->
+<script src="jscript/adminlte.min.js"></script>
+<!-- AdminLTE for demo purposes -->
+<script src="jscript/demo.js"></script>
+<!-- Page specific script -->
+<script>
+  $(function () {
+    $("#example1").DataTable({
+      "responsive": true, "lengthChange": false, "autoWidth": false,
+      "buttons": ["copy", "csv", "excel", "pdf", "print", "colvis"]
+    }).buttons().container().appendTo('#example1_wrapper .col-md-6:eq(0)');
+    $('#example2').DataTable({
+      "paging": true,
+      "lengthChange": false,
+      "searching": false,
+      "ordering": true,
+      "info": true,
+      "autoWidth": false,
+      "responsive": true,
+    });
+  });
+</script>
+</body>
+</html>
