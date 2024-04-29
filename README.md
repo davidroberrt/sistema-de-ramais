@@ -12,7 +12,7 @@ Anteriormente, a recepcionista enfrentava dificuldades ao procurar os ramais de 
 O objetivo deste projeto é desenvolver um sistema que permita à recepcionista encontrar rapidamente os ramais necessários para transferir chamadas, substituindo o método manual anterior.
 
 ## Solução
-Foi desenvolvido um sistema de procuração de ramais, acessível por meio de um aplicativo web simples e intuitivo. O sistema permite que a recepcionista pesquise os ramais por nome, departamento ou função, e visualize as informações relevantes de contato, como número de telefone e e-mail. Além disso, o sistema oferece a funcionalidade de transferência direta de chamadas para os ramais encontrados.
+Foi desenvolvido um sistema de procuração de ramais, acessível por meio de um aplicativo web simples e intuitivo. O sistema permite que a recepcionista pesquise os ramais por nome, departamento ou função.
 
 ## Benefícios
 - **Eficiência Melhorada:** O sistema simples torna o processo de procurar e transferir ramais mais rápido e eficiente.
